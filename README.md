@@ -81,3 +81,5 @@ O sistema fornece dicas se o número é maior ou menor e ao acertar, o programa 
 
 Será que você consegue adivinhar o número secreto em poucas tentativas? 
 Dê o seu palpite, siga as dicas e desafie sua sorte! 
+
+[Clique aqui para acessar o projeto e começar!](https://jogo-js-seven.vercel.app/)
